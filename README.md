@@ -1,4 +1,9 @@
 # ICT_report_code_Xudong
+Because the dataset and model weight files are too large, I uploaded them to Google Drive. Here is the link:
+https://drive.google.com/file/d/11ea3VF74saYrdEgY7y_Oy6P0UP94Q3DK/view?usp=drive_link
+
+
+
 Overview:
 This project aims to train a multimodal spam classification model. According to the file categories processed, there are 4 models for classifying text spam, namely GCNN, STC, CNN_LSTM, BERT_spam, and one model for classifying image spam, namely CNN_Spam_Image_Classification
  
