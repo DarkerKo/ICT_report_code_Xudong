@@ -19,7 +19,8 @@ According to the file categories processed, there are 4 models for classifying t
 - Python 3.10.2  
 - torch  2.1.2  
 - numpy 1.25.2  
-- matplotlib 3.6.2  
+- matplotlib 3.6.2
+- torchtext 0.16.2
 
 ---
 
