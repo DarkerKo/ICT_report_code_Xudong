@@ -53,6 +53,31 @@ According to the file categories processed, there are 4 models for classifying t
 | Image dataset | 3000  | 1509  | 1491  | 2100          | 450            | 450      |
 
 
+---
+
+## **How to do**
+
+### ✅ Step 1: Prepare Datasets for Training Models
+
+- **1-1.** Before running `CNN_LSTM.py` and `GCNN_STC.py` for text spam classification, please:
+  - Download the dataset file.
+  - Unzip it.
+  - Place the unzipped file named `DataSet_shuffle.csv` in the `./text_spam_classification/` directory.
+  - _(Note: The `BERT_spam_filtering.ipynb` model only needs to be run in **Colab**.)_
+
+- **1-2.** Before running `CNN_Spam_Image_Classification.py` for image spam classification, please:
+  - Download the image dataset.
+  - Unzip it.
+  - Place the folder named `DataSet_small` in the `./Image_spam_classification/` directory.
+
+---
+
+### ✅ Step 2: Prepare for Evaluation
+
+- Before running `for_Performance_Evaluation.py` for performance evaluation, please:
+  - Download the model weight files.
+  - Unzip the archive.
+  - Place the four model weight files into the `./performance_evaluation/` directory.
 
 
 
