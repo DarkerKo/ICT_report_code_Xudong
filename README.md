@@ -46,10 +46,17 @@ According to the file categories processed, there are 4 models for classifying t
 ## **Dataset Download Links**
 
 - **Text Email Dataset**
-  - Processed TXT dataset: [[Download link](https://drive.google.com/file/d/1inAE9Uy8ous8wrHxWKQV0xRpNsV42JST/view?usp=drive_link)]
+  - Processed TXT dataset: [Download link](https://drive.google.com/file/d/1inAE9Uy8ous8wrHxWKQV0xRpNsV42JST/view?usp=drive_link)
 
 - **Image Email Dataset**
-  - Processed image spam dataset: [[Download link](https://drive.google.com/file/d/1kjqzMVxmwbE0hAMOW7zmQVWoS3UjHA_Q/view?usp=drive_link)]
+  - Processed image spam dataset: [Download link](https://drive.google.com/file/d/1kjqzMVxmwbE0hAMOW7zmQVWoS3UjHA_Q/view?usp=drive_link)
+
+| Dataset       | sum   | ham   | spam  | Training set | Validation set | Test set |
+|---------------|-------|-------|-------|---------------|----------------|----------|
+| TXT dataset   | 33028 | 15080 | 17948 | 23119         | 4955           | 4954     |
+| Image dataset | 3000  | 1509  | 1491  | 2100          | 450            | 450      |
+
+
 
 
 
