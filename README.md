@@ -35,12 +35,8 @@ According to the file categories processed, there are 4 models for classifying t
 
 ## **Model Download Links**
 
-- **Text Models**
-  - Text Spam Classification Models: [[Download link](https://drive.google.com/file/d/1fu32kBjWfxrOVJjo9ddvC9pLsdYWE3Ok/view?usp=drive_link)]
-
-- **Image Model**
-  - CNN_Spam_Image_Classification Model: [[Download link](https://drive.google.com/file/d/11CE_zAs5MQzE8X8sSLcTGKxEealDRD4K/view?usp=drive_link)]
-
+- **Models**
+  - Text and Image Spam Classification Models: [[Download link](https://drive.google.com/file/d/1NUalC9_Hz1iq2ZNiXcV0WaIZTlWq5w32/view?usp=drive_link)]
 ---
 
 ## **Dataset Download Links**
